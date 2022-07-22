@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21h-116j-the-civil-war-and-reconstruction-fall-2005/122e09e3f5c57f6441b08cd3284b50b1_MIT21H_116F05_syllF05.pdf
+file: /courses/21h-116j-the-civil-war-and-reconstruction-fall-2005/122e09e3f5c57f6441b08cd3284b50b1_MIT21H_116F05_syllF05.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
