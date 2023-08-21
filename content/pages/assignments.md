@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The assignment section includes the assignments for the final reflection
+  paper
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

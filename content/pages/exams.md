@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: The exam section inlcudes the sample exams from previous year.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

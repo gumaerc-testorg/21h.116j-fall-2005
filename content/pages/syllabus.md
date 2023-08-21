@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: The syllabus section includes the course guidelines and grading criteria.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -16,11 +17,11 @@ Syllabus Archive
 
 The following syllabi come from a variety of different terms. They illustrate the evolution of this course over time, and are intended to provide alternate views into the instruction of this course.
 
-> Fall 2010, Merritt Roe Smith ([PDF]({{< baseurl >}}/resources/mit21h_116f05_syllf10))
+> Fall 2010, Merritt Roe Smith ({{% resource_link 03e606c8-a653-49bf-3fdd-884078ac26b0 "PDF" %}})
 > 
-> Fall 2007, Merritt Roe Smith ([PDF]({{< baseurl >}}/resources/mit21h_116f05_syllf07))
+> Fall 2007, Merritt Roe Smith ({{% resource_link b7a2c6dc-ca2c-5e2a-ad46-5181dbbd00d0 "PDF" %}})
 > 
-> Fall 2005, Merritt Roe Smith ([PDF]({{< baseurl >}}/resources/mit21h_116f05_syllf05))
+> Fall 2005, Merritt Roe Smith ({{% resource_link 122e09e3-f5c5-7f64-41b0-8cd3284b50b1 "PDF" %}})
 
 Description
 -----------

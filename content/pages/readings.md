@@ -1,16 +1,14 @@
 ---
 content_type: page
-learning_resource_types:
-- Readings
-ocw_type: CourseSection
+description: The reading section includes the required and recommended readings for
+  the course.
+draft: false
 title: Readings
 uid: acd1d13b-3f3b-e215-8c22-17191889f290
 ---
-
 Readings are also listed by [session](#Session).
 
-Required Readings
------------------
+## Required Readings
 
 McPherson, James. _Battle Cry of Freedom._ New York, NY: Oxford University Press, 1988, 2003. ISBN: 9780195168952.
 
@@ -22,302 +20,161 @@ Donald, David, ed. _Why the North Won the Civil War._ New York, NY: Collier, 196
 
 In addition, we will be viewing Ken Burns’s renowned documentary [_The Civil War_](http://www.pbs.org/civilwar/), a nine-part series that made television history when over 40 million viewers watched it in September 1990. Praised and criticized, [_The Civil War_](http://www.pbs.org/civilwar/) does one thing very well: it gives the viewer a vivid visual sense of what the times were like. And that’s why I’m using it – it puts a human face on the war. As you watch the series, think about how Burns’s presentation comports or departs with what James McPherson and other authors we’ll be reading have to say about the war. Differences in interpretation definitely exist. As the instructor, I am counting on you to pick up on these differences and bring them to the attention of the class during our discussions. The better your level of perception in these matters, the better will be your final grade!
 
-{{< anchor "Session" >}}{{< /anchor >}}Readings by Session
-----------------------------------------------------------
+## {{< anchor "Session" >}}{{< /anchor >}}Readings by Session
 
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 Lec #
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 TOPICS
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 READINGS
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 1
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Introduction
-{{< tdclose >}}
-{{< tdopen >}}
-McPherson, James. _Battle Cry of Freedom._ New York, NY: Oxford University Press, 1988, 2003. ISBN: 9780195168952.  
-  
+{{< tdclose >}}{{< tdopen >}}
+
+McPherson, James. _Battle Cry of Freedom._ New York, NY: Oxford University Press, 1988, 2003. ISBN: 9780195168952.
+
 Donald, David, ed. _Why the North Won the Civil War._ New York, NY: Collier, 1962.
-{{< tdclose >}}
 
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Film: Ken Burns. _The Civil War._ Episode 1, "The Cause"
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 McPherson, James. _Battle Cry of Freedom._ New York, NY: Oxford University Press, 1988, 2003, pp. 3-275. ISBN: 9780195168952. (Pay close attention to pp. 3-46.)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Lecture: Why the War Came; How Well Were the Sides Prepared?
-{{< tdclose >}}
-{{< tdopen >}}
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Reading Period
-{{< tdclose >}}
-{{< tdopen >}}
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Class Discussion of Donald's Book (Discussion will be Framed Around Student Reflection Papers)
-{{< tdclose >}}
-{{< tdopen >}}
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Film: _The Civil War._ Episode 2, "1862 - A Very Bloody Affair"
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 McPherson, James. _Battle Cry of Freedom_. New York, NY: Oxford University Press, 1988, 2003, pp. 276-427. ISBN: 9780195168952.
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Lecture: Dr. Brendan Foley. "The Civil War at Sea"
-{{< tdclose >}}
-{{< tdopen >}}
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Film: _The Civil War._ Episode 3, "Forever Free, 1862"
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 McPherson, James. _Battle Cry of Freedom_. New York, NY: Oxford University Press, 1988, 2003, pp. 428-567. ISBN: 9780195168952.
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Discussion (Framed Around Reflection Papers)
-{{< tdclose >}}
-{{< tdopen >}}
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Film: _The Civil War._ Episode 4, "Simply Murder, 1863"
-{{< tdclose >}}
-{{< tdopen >}}
-McPherson, James. _Battle Cry of Freedom_. New York, NY: Oxford University Press, 1988, 2003, pp. 568-665. ISBN: 9780195168952.  
-  
+{{< tdclose >}}{{< tdopen >}}
+
+McPherson, James. _Battle Cry of Freedom_. New York, NY: Oxford University Press, 1988, 2003, pp. 568-665. ISBN: 9780195168952.
+
 Shaara, Michael. _The Killer Angels._ New York, NY: Ballantine, 1987, 1993. ISBN: 9780345348104.
-{{< tdclose >}}
 
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Lecture: "The Impact of New Weapons Technologies"
-{{< tdclose >}}
-{{< tdopen >}}
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Film: _The Civil War._ Episode 5, "The Universe of Battle, 1863"
-{{< tdclose >}}
-{{< tdopen >}}
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Discussion (Framed Around Reflection Papers)
-{{< tdclose >}}
-{{< tdopen >}}
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Lecture: "Roads, Rails, and Waterways: Their Significance in the Civil War"
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 McPherson, James. _Battle Cry of Freedom_. New York, NY: Oxford University Press, 1988, 2003, pp. 666-717. ISBN: 9780195168952.
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Reading Period (Watkins, Sam. _Company Aytch_)
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Watkins, Sam R. _Company Aytch: A Confederate’s Memoir of the Civil War, 1882._ New York, NY: Touchstone, 1997, 2003. ISBN: 9780743255417.
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Discussion of Watkins and Life in the Ranks (Framed Around Reflection Papers)
-{{< tdclose >}}
-{{< tdopen >}}
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Film: _The Civil War._ Episode 6, "The Valley of the Shadow of Death, 1864"
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 McPherson, James. _Battle Cry of Freedom_. New York, NY: Oxford University Press, 1988, 2003, pp. 718-50. ISBN: 9780195168952.
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Film: _The Civil War._ Episode 7, "Most Hallowed Ground, 1864"
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 McPherson, James. _Battle Cry of Freedom_. New York, NY: Oxford University Press, 1988, 2003, pp. 751-806. ISBN: 9780195168952.
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Lecture: "Was the Civil War America's 'Defining Moment'?"
-{{< tdclose >}}
-{{< tdopen >}}
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Film: _The Civil War._ Episode 8, "War is All Hell, 1865"
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 McPherson, James. _Battle Cry of Freedom_. New York, NY: Oxford University Press, 1988, 2003, pp. 807-862. ISBN: 9780195168952.
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Discussion: "Who Got it Right?"
-{{< tdclose >}}
-{{< tdopen >}}
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
-{{< tdclose >}}
-{{< tdopen >}}
-Film: _The Civil War._ Episode 9, "The Better Angels of Our Nature, 1865"  
-  
+{{< tdclose >}}{{< tdopen >}}
+
+Film: _The Civil War._ Episode 9, "The Better Angels of Our Nature, 1865"
+
 Wrap-up
-{{< tdclose >}}
-{{< tdopen >}}
 
-{{< tdclose >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-{{< trclose >}}
-
-{{< tableclose >}}
-
-  
-
-Supplementary Readings by Theme
--------------------------------
+## Supplementary Readings by Theme
 
 **Note**: An asterisk (\*) indicates that the work is required reading.
 
@@ -387,7 +244,7 @@ Wiley, Bell I. _The Life of Johnny Reb_. Indianapolis, IN: Bobbs-Merrill, 1943.
 
 ———. _The Life of Billy Yank_. Indianapolis, IN: Bobbs-Merrill, 1952.
 
-Military Aspects of the War
+### Military Aspects of the War
 
 Ballard, Michael B. _Vicksburg_. Chapel Hill, NC: University of North Carolina Press, 2004.
 
