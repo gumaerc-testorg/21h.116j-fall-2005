@@ -18,7 +18,7 @@ Watkins, Sam R. _Company Aytch: A Confederate’s Memoir of the Civil War, 1882.
 
 Donald, David, ed. _Why the North Won the Civil War._ New York, NY: Collier, 1962.
 
-In addition, we will be viewing Ken Burns’s renowned documentary [_The Civil War_](http://www.pbs.org/civilwar/), a nine-part series that made television history when over 40 million viewers watched it in September 1990. Praised and criticized, [_The Civil War_](http://www.pbs.org/civilwar/) does one thing very well: it gives the viewer a vivid visual sense of what the times were like. And that’s why I’m using it – it puts a human face on the war. As you watch the series, think about how Burns’s presentation comports or departs with what James McPherson and other authors we’ll be reading have to say about the war. Differences in interpretation definitely exist. As the instructor, I am counting on you to pick up on these differences and bring them to the attention of the class during our discussions. The better your level of perception in these matters, the better will be your final grade!
+In addition, we will be viewing Ken Burns’s renowned documentary {{% resource_link "81550aa5-ae91-4a91-89db-604602b82640" "_The Civil War_" %}}, a nine-part series that made television history when over 40 million viewers watched it in September 1990. Praised and criticized, {{% resource_link "81550aa5-ae91-4a91-89db-604602b82640" "_The Civil War_" %}} does one thing very well: it gives the viewer a vivid visual sense of what the times were like. And that’s why I’m using it – it puts a human face on the war. As you watch the series, think about how Burns’s presentation comports or departs with what James McPherson and other authors we’ll be reading have to say about the war. Differences in interpretation definitely exist. As the instructor, I am counting on you to pick up on these differences and bring them to the attention of the class during our discussions. The better your level of perception in these matters, the better will be your final grade!
 
 ## {{< anchor "Session" >}}{{< /anchor >}}Readings by Session
 
@@ -402,23 +402,23 @@ Woodward, C. Vann, ed. _Mary Chestnut's Civil War._ New Haven, CT: Yale Universi
 
 ### Novels
 
-Crane, Stephen. [_The Red Badge of Courage_](http://www.gutenberg.org/etext/73)_._ New York, NY: Penugin Books,1895, 2005. (A version of the Red Badge of Courage is available at Project Gutenberg.)
+Crane, Stephen. {{% resource_link "3faaa0d9-bc9f-4e7e-8abe-aa65541a8992" "_The Red Badge of Courage_" %}}_._ New York, NY: Penugin Books,1895, 2005. (A version of the Red Badge of Courage is available at Project Gutenberg.)
 
 \*Shaara, Michael. _The Killer Angels._ New York, NY: Ballantine Books, 1975, 1987. ISBN: 9780345322289.
 
 ### Films
 
-Griffith, D. W. [_Birth of a Nation_](http://www.imdb.com/title/tt0004972/). 1915.
+Griffith, D. W. {{% resource_link "4542db27-cb2a-4248-b2ec-49d50ae906cd" "_Birth of a Nation_" %}}. 1915.
 
-\* Burns, Ken. [_The Civil War_](http://www.imdb.com/title/tt0098769/). 1990.
+\* Burns, Ken. {{% resource_link "6862e737-6571-4597-bf42-e536e4aa1e79" "_The Civil War_" %}}. 1990.
 
-Bruckma, Clyde, and Buster Keaton. [_The General_](http://www.imdb.com/title/tt0017925/)_._ 1927.
+Bruckma, Clyde, and Buster Keaton. {{% resource_link "be3602a5-f817-4513-92da-809838d9c0a0" "_The General_" %}}_._ 1927.
 
-Maxwell, Ronald F. [_Gettysburg_](http://www.imdb.com/title/tt0107007/)_._ 1993.
+Maxwell, Ronald F. {{% resource_link "30b1f7f9-9083-4d8b-99af-255d4d87f706" "_Gettysburg_" %}}_._ 1993.
 
-Zwick, Edward. [_Glory_](http://www.imdb.com/title/tt0097441/). 1989.
+Zwick, Edward. {{% resource_link "696e8ae9-f483-4a3f-9746-fc85f005d340" "_Glory_" %}}. 1989.
 
-Maxwell, Ronald F. [_Gods and Generals_](http://www.imdb.com/title/tt0279111/). 2003.
+Maxwell, Ronald F. {{% resource_link "8fd45682-4376-4d8b-8482-1697c267d0bd" "_Gods and Generals_" %}}. 2003.
 
 ### Guides to Civil War Literature
 
