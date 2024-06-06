@@ -3,6 +3,7 @@ content_type: resource
 description: This resource includes information on the Civil War as a different sort
   of war.
 file: /courses/21h-116j-the-civil-war-and-reconstruction-fall-2005/c2be6c146158de696da9d1f6d9f49d0b_lecture_1_tech.pdf
+file_size: 14288
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
