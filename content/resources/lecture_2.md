@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on long term issues, and near term
   issues.
-file: /courses/21h-116j-the-civil-war-and-reconstruction-fall-2005/5c41115c3a63d89a7408462f023454a2_lecture_2.pdf
+file: /ol-ocw-studio-app/courses/21h-116j-the-civil-war-and-reconstruction-fall-2005/5c41115c3a63d89a7408462f023454a2_lecture_2.pdf
 file_size: 20054
 file_type: application/pdf
 learning_resource_types:

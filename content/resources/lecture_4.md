@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on the bloodiest war in American history,
   disease and mortality, and medical innovations.
-file: /courses/21h-116j-the-civil-war-and-reconstruction-fall-2005/b27e1d8364b5cd2dde37bbf881c58e22_lecture_4.pdf
+file: /ol-ocw-studio-app/courses/21h-116j-the-civil-war-and-reconstruction-fall-2005/b27e1d8364b5cd2dde37bbf881c58e22_lecture_4.pdf
 file_size: 14505
 file_type: application/pdf
 learning_resource_types:
